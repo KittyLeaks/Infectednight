@@ -1,4 +1,4 @@
-# API Funel
+# InfectedNight
 Infectednight is a bad source, Don't use it!
 
 Usage:
